@@ -12,7 +12,7 @@
 - `libreoffice --version` 
 - `.so file java lib 추가`
 - `패키지 네임 변경 금지`
-- `https://github.com/Ablestor/office-converter-lib` <- 
+- `./gradlew bootWar` <- 
 
 ## Copyright
 - BJS and Hancom SDK
